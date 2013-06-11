@@ -15,6 +15,7 @@
 # 
 # ===============================================
 
+from ranger.api.commands import *
 
 # class terminal(Command):
 #     """:terminal
